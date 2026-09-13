@@ -1,0 +1,6 @@
+{
+  "name": "Amortals - Bông Rửa Mặt Bọt Biển Tự Nhiên",
+  "description": "Landing page giới thiệu bông rửa mặt bọt biển Amortals: Rửa mặt sạch sâu chuẩn spa, êm mịn cho làn da nhạy cảm nhất với tông tím pastel sang trọng trên nền đen.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
